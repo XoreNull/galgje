@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|.|a|.|.|.|.|
+|.|a|.|t|.|.|
 |-|-|-|-|-|-|
 |1|2|3|4|5|6|
 
@@ -17,3 +17,4 @@ res2: jammer! niet goed....
 req3:m
 res3: jammer joh
 req4:t
+res4: topper
