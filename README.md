@@ -22,4 +22,4 @@ req5:r
 res5: oei
 req6:l
 res6: goed gedaan!
-req7:p
+req7:laptop
