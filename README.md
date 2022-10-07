@@ -12,3 +12,4 @@
 ## Beurten
 req1:a
 res1: ja goed!
+req2:b
