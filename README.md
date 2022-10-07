@@ -10,5 +10,4 @@
 ![gallow](./images/1.png)
 
 ## Beurten
-1. a - goed!
-2. 
+req1:a
