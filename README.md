@@ -7,11 +7,12 @@
 |1|2|3|4|5|6|
 
 ## Score
-![gallow](./images/2.png)
+![gallow](./images/3.png)
 
 ## Beurten
 req1:a
 res1: ja goed!
 req2:b
-res1: jammer! niet goed....
+res2: jammer! niet goed....
 req3:m
+res3: jammer joh
