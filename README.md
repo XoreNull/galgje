@@ -2,11 +2,11 @@
 
 ## Te raden woord
 
-|l|a|.|t|.|.|
+|l|a|p|t|o|p|
 |-|-|-|-|-|-|
 |1|2|3|4|5|6|
 
-## Score
+## Score = binnen 7 keer geraden! 3 fouten
 ![gallow](./images/4.png)
 
 ## Beurten
@@ -23,3 +23,4 @@ res5: oei
 req6:l
 res6: goed gedaan!
 req7:laptop
+res7: goed geraden!
