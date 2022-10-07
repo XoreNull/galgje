@@ -7,7 +7,7 @@
 |1|2|3|4|5|6|
 
 ## Score
-![gallow](./images/3.png)
+![gallow](./images/4.png)
 
 ## Beurten
 req1:a
@@ -19,3 +19,4 @@ res3: jammer joh
 req4:t
 res4: topper
 req5:r
+res5: oei
