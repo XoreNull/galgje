@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|.|a|.|t|.|.|
+|l|a|.|t|.|.|
 |-|-|-|-|-|-|
 |1|2|3|4|5|6|
 
@@ -21,3 +21,4 @@ res4: topper
 req5:r
 res5: oei
 req6:l
+res6: goed gedaan!
